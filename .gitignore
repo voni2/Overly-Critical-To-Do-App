@@ -1,0 +1,4 @@
+dar/
+*.env
+_pycache_/
+*.pyc
